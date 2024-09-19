@@ -1,0 +1,23 @@
+body {
+  background-color: orange;
+}
+
+.heading {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 50px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 100px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
